@@ -1,2 +1,2 @@
 # postgresql-studies
-Postgre SQL Studies
+🐘 PostgreSQL Studies
